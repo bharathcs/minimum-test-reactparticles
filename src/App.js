@@ -1,10 +1,10 @@
-import logo from "./logo.svg";
-import "./App.css";
+import React, { Component } from "react";
 import Particles from "react-particles-js";
 
-function App() {
-  return <Particles />;
-  // return <div>boo</div>;
+class App extends Component {
+  render() {
+    return <Particles />;
+  }
 }
 
 export default App;
