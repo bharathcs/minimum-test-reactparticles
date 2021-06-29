@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^12.1.10",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-particles-js": "^3.5.1",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
